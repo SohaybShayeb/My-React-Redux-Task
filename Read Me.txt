@@ -1,0 +1,22 @@
+Hello there.
+before you can run the app, you need to
+extract the file called MyApp first,
+then use the command 'npm install' to 
+install all node modules and so,then
+after the installation is completed 
+you need to use the command 'npm start'.
+In case it doesn't work you can
+contact me at:
+sohaib.f.shayeb@gmail.com
+
+the directories:
+actions: contains the actions creators
+AppCostants: contains all actions types, in case you miss typed some  of them
+components: contains the main components
+reducers: contains the reducers
+ReducersHelper: check for fake auth
+routers: contains the routes and so
+styles: contains the styles of all components
+the provider is at the main index.js
+
+I hope you like it !!
